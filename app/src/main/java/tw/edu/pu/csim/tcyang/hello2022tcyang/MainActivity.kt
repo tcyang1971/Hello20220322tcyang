@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         //txv.text = "Hello tcyang"
         //TestMaster()
         //TestDEV()
-        txv.text = "嗨，我是楊子青"
+        txv.text = "嗨，我是黃冠維"
     }
 
     fun TestMaster(){
